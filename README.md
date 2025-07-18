@@ -82,6 +82,4 @@ communities = detect_communities(graph)  # 基于GNN的社区发现
 | Diffusion | 1.2B | 128       | 2.15× |
 | GNN       | 500M | 512       | 2.81× |
 
-
-
-# 
+**以上文件为算法模板，受MIT许可证保护**
